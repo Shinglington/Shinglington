@@ -2,7 +2,7 @@ import discord
 import requests
 import json
 
-token= "MTAwNDUyMDI5MzYxNzg5NzU2NA.G8qtUK.14jaGtsHC16IQZqGXCbrwIO1VnkndLihCJg3nI"
+token= ""
 client = discord.Client()
 
 
