@@ -30,4 +30,8 @@ async def on_message(message):
         quote = get_quote()
         await message.channel.send(quote)
 
+							
+							
+							
+print("running")
 client.run(token)
